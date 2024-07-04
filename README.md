@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mir Saif Ali</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akash202004&label=Profile%20views&color=0e75b6&style=flat" alt="akash202004" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MIR-2004&label=Profile%20views&color=0e75b6&style=flat" alt="MIR-2004" /> </p>
 <h4 align="center">🦄 Ask me about Web, Finance, Upcoming Technologies</h4>
 
 <h4 align="center">⚡ Fun fact The tech boom is NOTHING compared to the Gold Rush 🪙</h4>
