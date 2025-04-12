@@ -6,6 +6,11 @@
 
 <h4 align="center">⚡ Fun fact The tech boom is NOTHING compared to the Gold Rush 🪙</h4>
 
+<!-- gif -->
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNvMjBmbWI3cXUyaWo0aThoODgyZHVzNms0dDQ3OTV3aGRnemt3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" />
+</div>
+
 <!-- Soicals -->
 <h2 align="center">Connect with me</h2>
 <div align="center">
