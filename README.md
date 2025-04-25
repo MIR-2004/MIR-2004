@@ -30,7 +30,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,vite,vscode,figma,postman,java,c,appwrite,discord,firebase,materialui,nextjs,npm,ts&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,vite,vscode,figma,postman,java,c,discord,firebase,docker,recoil,prisma,sql,postgresql,nextjs,npm,ts&perline=10"  />
 </p>
 <br />
 
