@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/MIR-2004/Meet-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIR-2004&repo=Meet-AI&theme=tokyonight&hide_border=false&bg_color=0D1117" alt="Meet-AI"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIR-2004&repo=Meet-AI&theme=tokyonight&hide_border=false&bg_color=#0D1117" alt="Meet-AI"/>
   </a>
   <a href="https://github.com/MIR-2004/NOVA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIR-2004&repo=NOVA&theme=tokyonight&hide_border=false&bg_color=#0D1117" alt="NOVA"/>
@@ -36,5 +36,7 @@
  <br/>
 <div align="center">💭 Random Dev Quote</div>
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <br>
-<div align="center">🐍 Contribution Snake</div>
-<div align="center"> <img src="https://raw.githubusercontent.com/MIR-2004/MIR-2004/output/snake.svg" alt="Snake Animation"/> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234353,100:36454f&height=120&section=footer&animation=twinkling"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+happy+to+connect+and+collaborate!+%E2%9C%A8" alt="Footer Typing SVG" /> </div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akash202004/MIR-2004/output/github-contribution-grid-snake.svg" />
+</div>
