@@ -10,8 +10,9 @@
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
 <div align="center"> <a href="https://www.linkedin.com/in/mir-saif-ali-9b9415256/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/> </a> <a href="mailto:mir.saif.ali2004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"/> </a> <a href="https://www.instagram.com/saifa_li2345/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/> </a> <a href="https://github.com/MIR-2004" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px;"/> </a> <a href="https://portfolio-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" style="border-radius: 10px;"/> </a> <a href="https://leetcode.com/your-username" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"/> </a> </div> <br>
-## 🛠️ Tech Arsenal
 
+
+<div align="center">🛠️ Tech Arsenal</div>
 <div align="center">
   <!-- Simpler, more stable than custom CSS animations on GitHub -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,figma,nodejs,express,mongodb,mysql,postgresql,firebase,prisma,git,github,docker,vercel,vscode,postman,linux,windows,java,c,discord,sentry,npm&theme=dark&perline=14" alt="Tech stack icons"/>
@@ -21,7 +22,8 @@
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIR-2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIR-2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIR-2004&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/> </div> <br>
 <div align="center">🏆 GitHub Trophies</div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MIR-2004&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/> </div> <br>
-## ⭐ Featured Projects
+
+<div align="center">⭐ Featured Projects</div>
 
 <div align="center">
   <a href="https://github.com/MIR-2004/Meet-AI">
