@@ -5,7 +5,8 @@
 <span>🚀 Passionate Web Developer from India, Currently focused on Full Stack Development.</span>
 <!-- gif -->
 <div align="center">
-<div class="tenor-gif-embed" data-postid="6784120573629574834" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/himejima-gyomei-stone-breathing-gyomei-vs-muzan-stone-breathing-3rd-form-himejima-vs-muzan-gif-6784120573629574834">Himejima Gyomei Stone Breathing GIF</a>from <a href="https://tenor.com/search/himejima+gyomei-gifs">Himejima Gyomei GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlqeGRwcTkzYTdzd2NkY3dvdmc2MjU5azNsNmQ0M2FtNnlubmx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDen1HUlEWp6OKS15E/giphy.gif" />
+
 </div>
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
