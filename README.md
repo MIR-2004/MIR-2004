@@ -5,7 +5,7 @@
 <span>🚀 Passionate Web Developer from India, Currently focused on Full Stack Development.</span>
 <!-- gif -->
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTV4MXh3dmNuNGp2Z3c5eWQwYWp1ZWE2eDdxdThndGtzNWk4aDR1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8qXJTU5oEhQZO/giphy.gif" />
+  <img height="200" src="https://tenor.com/view/demon-slayer-gif-3990363283080521917" />
 </div>
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
