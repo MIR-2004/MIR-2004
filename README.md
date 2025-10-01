@@ -7,6 +7,7 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTV4MXh3dmNuNGp2Z3c5eWQwYWp1ZWE2eDdxdThndGtzNWk4aDR1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8qXJTU5oEhQZO/giphy.gif" />
 </div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/MirSaifAli2004)
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
 <div align="center"> <a href="https://www.linkedin.com/in/mir-saif-ali-9b9415256/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/> </a> <a href="mailto:mir.saif.ali2004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"/> </a> <a href="https://www.instagram.com/saifa_li2345/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/> <a href="https://portfolio-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" style="border-radius: 10px;"/> </a> <a href="https://leetcode.com/u/MirSaifAli2004/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"/> </a> </div> <br>
