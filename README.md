@@ -5,7 +5,7 @@
 <span>🚀 Passionate Web Developer from India, Currently focused on Full Stack Development.</span>
 <!-- gif -->
 <div align="center">
-  <img height="200" src="https://tenor.com/view/demon-slayer-gif-3990363283080521917" />
+  <img height="200" src="https://tenor.com/view/himejima-gyomei-stone-breathing-gyomei-vs-muzan-stone-breathing-3rd-form-himejima-vs-muzan-gif-6784120573629574834" />
 </div>
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
