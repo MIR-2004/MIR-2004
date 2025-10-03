@@ -5,7 +5,7 @@
 <span>🚀 Passionate Web Developer from India, Currently focused on Full Stack Development.</span>
 <!-- gif -->
 <div align="center">
-    <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlqeGRwcTkzYTdzd2NkY3dvdmc2MjU5azNsNmQ0M2FtNnlubmx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDen1HUlEWp6OKS15E/giphy.gif" />
+    <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ1amNvb3YxbnN4MDcyMjZxa2lodHp6cjNkaGtkMWVtdmUwc2huNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f7k6TfAFkiAqKVcJGH/giphy.gif" />
 
 </div>
 </div> <br/>
